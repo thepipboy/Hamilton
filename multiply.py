@@ -1,4 +1,3 @@
-
 class multiply(n):
     ([n, n, n, n, n],
      [0, n, 0, n, 0],
